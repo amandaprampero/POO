@@ -1,0 +1,13 @@
+Professor#João Silva#123456789#11122233344#123#Física#Doutorado em Física 
+Aluno#Pedro Santos#987654321#22233344455#321#Engenharia Civil#5
+Tecnico#Ana Souza#543219876#33344455566#000#Pós-Graduação
+Professor#Mariana Costa#246810 1214#44455566677#111#Biologia#Mestrado em Biologia
+Aluno#Lucas Oliveira#135791113#55566677788#222#Ciência da Computação#3
+Tecnico#Renato Almeida#975318642#66677788899#333#Graduação 
+Professor#Camila Fernandes#1212121212#77788899900#444#História#Doutorado em História 
+Aluno#Luiza Pereira#1313131313#88899900011#555#Direito#8 
+Tecnico#Fernanda Santos#1414141414#99900011122#666#Administrativa 
+Professor#Pedro Rodrigues#1515151515#00011122233#777#Química#Mestrado em Química 
+Aluno#Rafaela Costa#1616161616#11122233344#888#Medicina#6 
+Tecnico#Gustavo Alves#1717171717#22233344455#999#Acadêmica
+Administrador#Luiz#4321#10203040
