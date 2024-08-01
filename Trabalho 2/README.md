@@ -13,5 +13,5 @@ O objetivo deste trabalho é aplicar os conceitos ministrados em sala, tais como
 - Polimorfismo
 - Interfaces
 - Classes
-- Metodos abstratos
+- Métodos abstratos
 - Exceções
